@@ -10,7 +10,7 @@
                         <h4>Thông Tin Cửa Hàng</h4>
                         <ul class="list-unstyled">
                             <li><a href="">Cửa Hàng </a></li>
-                            <li><a href="">số 34 Trưng Nhị, Hà Đông, Tp. Hà Nội</a></li>
+                            <li><a href="">Số 34 Trưng Nhị, Hà Đông, Tp. Hà Nội</a></li>
                             <li><a href="">Hotline: 024 6259 3434</a></li>
                         </ul>
                     </div>
